@@ -1,4 +1,3 @@
-*.iml
 .gradle
 /local.properties
 .idea
@@ -9,3 +8,13 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+## User settings
+xcuserdata/
